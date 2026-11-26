@@ -1,7 +1,3 @@
----
-name = "Circular Motion"
----
-
 Q: What is the period ($T$) in circular motion?
 A: The time, in seconds, taken for an object to travel a full circle.
 
